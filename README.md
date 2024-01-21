@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me my mail id is starrai843@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+  
 
 <!---
 Yashrai54/Yashrai54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
