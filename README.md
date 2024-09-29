@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Yash Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrai54&label=Profile%20views&color=0e75b6&style=flat" alt="yashrai54" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashrai54" alt="yashrai54" /></a> </p>
+
 - 🔭 I’m currently working on **Virtual Classroom**
 
-- 🌱 I’m currently learning **Socket.io**
+- 🌱 I’m currently learning **Socket.io,DSA and NEXT.js**
 
-- 👯 I’m looking to collaborate on **any kind of interesting projects**
+- 👯 I’m looking to collaborate on **Development Projects**
 
-- 💬 Ask me about **react,javascript,express**
+- 💬 Ask me about **react,javascript,express,Node,Database**
 
 - 📫 How to reach me **raiyash582@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/yash_rai54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_rai54" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
