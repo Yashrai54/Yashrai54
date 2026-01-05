@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m Yash Rai, a Full Stack Developer who likes keeping things practical. Mostly working with React, Node.js, and MongoDB, I focus on solving problems, building tools that make sense, and diving into DSA.  <br><br>I’m not here for fluff — if it runs clean and does the job, I’m interested. Outside of coding, I explore anime, manga, and games that have depth, and I’m always tinkering with projects that challenge logic and design.<br>
+<br>I’m Yash Rai, a Full Stack Developer. Mostly working with React, Node.js, and MongoDB, I focus on solving problems, building projects that make sense, and diving into DSA.  <br><br>I’m here for showcasing my projects and collaborating on project ideas that solve some problems. Outside of coding, I explore anime, manga, and games that have depth, and I’m always tinkering with projects that challenge logic and design.<br>
 
 
 ## 🌐 Socials:
